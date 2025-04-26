@@ -2,7 +2,7 @@
 
 Eu sou Natan, tenho 19 anos e sou Desenvolvedor Web em transição e início de carreira, Atualmente estou cursando Análise e Desenvovimento de Sistemas (2° Ano) e pretendo me dedicar e desenvolver na área.
 
-### Statics
+### Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanBg&show_icons=true&theme=radical)
 
